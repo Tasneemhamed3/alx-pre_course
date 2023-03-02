@@ -1,1 +1,2 @@
-touch up_to_date
+touch update_script git status git add git commit -m git push 
+
